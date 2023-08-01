@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "typer-101"
 version = "0.1.0"
-description = ""
+description = "This is a 101 project for studying typer"
 authors = ["tmdgusya"]
 license = "MIT License"
 
